@@ -1,0 +1,15 @@
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\bin\Debug\net6.0\poo em c#.exe
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\bin\Debug\net6.0\poo em c#.deps.json
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\bin\Debug\net6.0\poo em c#.runtimeconfig.json
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\bin\Debug\net6.0\poo em c#.dll
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\bin\Debug\net6.0\poo em c#.pdb
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.csproj.AssemblyReference.cache
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.AssemblyInfoInputs.cache
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.AssemblyInfo.cs
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.csproj.CoreCompileInputs.cache
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.dll
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\refint\poo em c#.dll
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.pdb
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\poo em c#.genruntimeconfig.cache
+C:\Users\mmagn\OneDrive\Área de Trabalho\dev\poo em c#\obj\Debug\net6.0\ref\poo em c#.dll
